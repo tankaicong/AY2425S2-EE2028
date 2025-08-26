@@ -1,0 +1,15 @@
+../Core/Src/main.c:99:6:HAL_GPIO_EXTI_Callback	5
+../Core/Src/main.c:117:6:HAL_UART_RxCpltCallback	2
+../Core/Src/main.c:633:6:ACC_EXTI11_Init	1
+../Core/Src/main.c:655:6:Error_Handler	1
+../Core/Src/main.c:472:6:SystemClock_Config	4
+../Core/Src/main.c:662:6:print_entering_stand	1
+../Core/Src/main.c:668:6:print_entering_emerg	1
+../Core/Src/main.c:674:6:IMU_calib	6
+../Core/Src/main.c:703:6:get_pht_readings	1
+../Core/Src/main.c:710:6:get_imu_readings	2
+../Core/Src/main.c:726:6:print_text	1
+../Core/Src/main.c:730:6:print_readings	1
+../Core/Src/main.c:759:7:mod	2
+../Core/Src/main.c:764:6:draw_wireframe	1
+../Core/Src/main.c:126:5:main	52

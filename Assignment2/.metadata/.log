@@ -1,0 +1,66 @@
+!SESSION 2025-08-26 08:08:52.780 -----------------------------------------------
+eclipse.buildId=Version 1.17.0
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_SG
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-08-26 08:10:03.391
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-08-26 08:10:03.393
+!MESSAGE Log4j2 initialized with config file C:\Users\kaico\OneDrive - National University of Singapore\Y1S2\EE2028\PUBLIC ARCHIVE\EE2028_Assignments\Assignment2\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-08-26 08:10:11.212
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2025-08-26 19:01:01.887 -----------------------------------------------
+eclipse.buildId=Version 1.17.0
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_SG
+Framework arguments:  C:\Users\kaico\OneDrive - National University of Singapore\Y1S2\EE2028\PUBLIC ARCHIVE\EE2028_Assignments\Assignment2\.project
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 C:\Users\kaico\OneDrive - National University of Singapore\Y1S2\EE2028\PUBLIC ARCHIVE\EE2028_Assignments\Assignment2\.project
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-08-26 19:02:06.181
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-08-26 19:02:06.184
+!MESSAGE Log4j2 initialized with config file C:\Users\kaico\OneDrive - National University of Singapore\Y1S2\EE2028\PUBLIC ARCHIVE\EE2028_Assignments\Assignment2\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-08-26 19:02:11.947
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2025-08-26 19:03:31.779 -----------------------------------------------
+eclipse.buildId=Version 1.17.0
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_SG
+Framework arguments:  C:\Users\kaico\OneDrive - National University of Singapore\Y1S2\EE2028\PUBLIC ARCHIVE\EE2028_Assignments\Assignment2\.project
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 C:\Users\kaico\OneDrive - National University of Singapore\Y1S2\EE2028\PUBLIC ARCHIVE\EE2028_Assignments\Assignment2\.project
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-08-26 19:03:45.144
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-08-26 19:03:45.146
+!MESSAGE Log4j2 initialized with config file C:\Users\kaico\OneDrive - National University of Singapore\Y1S2\EE2028\PUBLIC ARCHIVE\EE2028_Assignments\Assignment2\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-08-26 19:03:48.930
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.core.jobs 2 2 2025-08-26 19:04:01.660
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.ui.internal.Workbench$39
+!SESSION 2025-08-26 19:04:04.129 -----------------------------------------------
+eclipse.buildId=Version 1.17.0
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_SG
+Framework arguments:  C:\Users\kaico\OneDrive - National University of Singapore\Y1S2\EE2028\PUBLIC ARCHIVE\EE2028_Assignments\Assignment2\.project
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 C:\Users\kaico\OneDrive - National University of Singapore\Y1S2\EE2028\PUBLIC ARCHIVE\EE2028_Assignments\Assignment2\.project
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-08-26 21:17:35.826
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-08-26 21:17:35.829
+!MESSAGE Log4j2 initialized with config file C:\Users\kaico\OneDrive - National University of Singapore\Y1S2\EE2028\PUBLIC ARCHIVE\EE2028_Assignments\Assignment2\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-08-26 21:17:39.753
+!MESSAGE Started RMI Server, listening on port 41337

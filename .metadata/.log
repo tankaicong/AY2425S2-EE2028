@@ -1,0 +1,19 @@
+!SESSION 2025-08-26 21:18:17.458 -----------------------------------------------
+eclipse.buildId=Version 1.17.0
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_SG
+Framework arguments:  C:\Users\kaico\OneDrive - National University of Singapore\Y1S2\EE2028\PUBLIC ARCHIVE\EE2028_Assignments\Assignment2\.project
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data C:\Users\kaico\OneDrive - National University of Singapore\Y1S2\EE2028\PUBLIC ARCHIVE\EE2028_Assignments C:\Users\kaico\OneDrive - National University of Singapore\Y1S2\EE2028\PUBLIC ARCHIVE\EE2028_Assignments\Assignment2\.project
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-08-26 21:18:26.580
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-08-26 21:18:26.584
+!MESSAGE Log4j2 initialized with config file C:\Users\kaico\OneDrive - National University of Singapore\Y1S2\EE2028\PUBLIC ARCHIVE\EE2028_Assignments\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-08-26 21:18:31.141
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-08-26 21:19:04.694
+!MESSAGE Indexed 'Assignment2' (195 sources, 178 headers) in 14.2 sec: 39,629 declarations; 165,747 references; 10 unresolved inclusions; 205 syntax errors; 2,393 unresolved names (1.2%)

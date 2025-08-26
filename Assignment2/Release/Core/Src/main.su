@@ -1,0 +1,15 @@
+../Core/Src/main.c:99:6:HAL_GPIO_EXTI_Callback	8	static
+../Core/Src/main.c:117:6:HAL_UART_RxCpltCallback	0	static
+../Core/Src/main.c:633:6:ACC_EXTI11_Init	32	static
+../Core/Src/main.c:655:6:Error_Handler	0	static
+../Core/Src/main.c:472:6:SystemClock_Config	96	static
+../Core/Src/main.c:662:6:print_entering_stand	40	static
+../Core/Src/main.c:668:6:print_entering_emerg	40	static
+../Core/Src/main.c:674:6:IMU_calib	328	static
+../Core/Src/main.c:703:6:get_pht_readings	8	static
+../Core/Src/main.c:710:6:get_imu_readings	48	static
+../Core/Src/main.c:726:6:print_text	8	static
+../Core/Src/main.c:730:6:print_readings	696	static
+../Core/Src/main.c:759:7:mod	24	static
+../Core/Src/main.c:764:6:draw_wireframe	24	static
+../Core/Src/main.c:126:5:main	464	static
